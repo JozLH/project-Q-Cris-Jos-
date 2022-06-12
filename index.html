@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Q</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- div for quote in original language -->
+
+        <div class="quote-wrapper">
+            <h2>Quote of the day</h2>
+            <small id="quote-tags"></small>
+            <blockquote id="quote-text"></blockquote>
+            <cite class="quote-author"></cite>
+            <button type="button" id="gen-quote-btn">Get new Quote</button>
+        </div>
+        <!-- dropdown for choosing target language-->
+        <div class="translation">
+            <label for="Language">Choose target language</label><br>
+            <select name="languageSelector" id="languageSelector">
+                </select>
+        </div>
+
+        <!-- div for translated quote -->
+        <div class="translation-wrapper" id="trans">
+            <h2 id="headerForTranslation"></h2>
+            <blockquote id="targetText"></blockquote><br>
+            <cite class="quote-author"></cite>
+        </div>
+
+    </div>
+    <script src='script.js'></script>
+</body>
+
+</html>
