@@ -3,7 +3,7 @@
                                  #  A daily motivational quote for everybody (or almost)
                                     
                                   
-Project Q is a typical frontend development bootcamp project but with a translator's touch.
+Project Q is a frontend development bootcamp project = a motivational quote generator with a translator's touch.
 
 With 28 languages to choose from, Project Q can provide a motivational quote to about 6 billion speakers, including Chinese, Spanish, Czech, Brazillian (PT + BR), English (US + UK), French, Russian, Turkish, German, etc.
                                 
@@ -30,7 +30,7 @@ We aim offer a fluid motivational quote experience by recognizing your device la
 Example: Project Q will recognize EUES on your device and translate the quote into Spanish; however, Project Q can't recognize MXES or LATAMES. If you have MXES or LATAMES on your device and want to get your quote in Spanish, select Spanish in the dropdown menu.
 
 I am using a compatible language, like EUES, but my language is not recognized automatically, why?
-Some browsers, like Safari, have special requirements and restrictions in regards to accessing users data, like their device language.  A Chromium-based browser, like Chrome or Brave, will recognize your compatible language, like EUES or Chinese (simplified).
+Some browsers, like Safari, have special requirements and restrictions in regard to accessing users’ data, like their device language.  A Chromium-based browser, like Chrome or Brave, will recognize a compatible language, like EUES or Chinese (simplified).
 
 I want to access Project Q every morning from my mobile phone. Do you have an app?
 We don't have a downloadable app, but you can add Project Q to your home screen just like an app. In Safari, open the share sheet (tap the + symbol in bottom bar) and select Add to home. You'll now be able to access Project Q from your home page, just like an app.
